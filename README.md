@@ -1,4 +1,4 @@
-# ChostPulse-Bukkit
+# ChostPulse - Bukkit/Spigot Plugin
 
 ChostPulse is a lightweight telemetry bridge for Bukkit and Spigot-based servers, designed to synchronize real-time performance metrics with the ChostPulse monitoring network. It utilizes an asynchronous architecture to ensure that data collection and transmission never interfere with the server's main tick loop or player experience.
 
