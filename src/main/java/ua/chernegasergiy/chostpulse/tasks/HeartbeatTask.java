@@ -1,4 +1,5 @@
 package ua.chernegasergiy.chostpulse.tasks;
+
 import com.google.gson.Gson;
 import org.bukkit.Bukkit;
 import java.io.OutputStream;
