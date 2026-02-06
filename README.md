@@ -13,10 +13,12 @@ ChostPulse is a lightweight telemetry bridge for Bukkit and Spigot-based servers
 
 ## Installation
 
-1. Download or build the `.jar` file.
-2. Place it in the `plugins/` folder.
-3. Restart the server.
-4. On first run, the plugin will generate a unique `token` in `config.yml`.
+Follow these steps to integrate the telemetry bridge into your server environment:
+
+1. Download the latest `ChostPulse-Bukkit.jar` file from the official releases page.
+2. Place the JAR file into your server's `plugins/` directory.
+3. Restart or reload your server to initialize the plugin.
+4. On the first run, check the console for your unique **Public ID** and generated badge URLs to verify the connection.
 
 ## Configuration
 
