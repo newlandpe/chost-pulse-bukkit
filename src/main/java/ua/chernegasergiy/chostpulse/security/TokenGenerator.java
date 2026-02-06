@@ -1,4 +1,5 @@
 package ua.chernegasergiy.chostpulse.security;
+
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.UUID;
