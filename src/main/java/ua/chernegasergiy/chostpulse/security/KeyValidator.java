@@ -1,4 +1,5 @@
 package ua.chernegasergiy.chostpulse.security;
+
 public class KeyValidator {
     private static final String PREFIX_SECRET = "sk_live_";
     private static final int MIN_LENGTH = 40;
