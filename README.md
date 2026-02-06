@@ -12,7 +12,7 @@ Asynchronous heartbeat and statistics collector for Bukkit/Spigot servers.
 ## Configuration
 
 ```yaml
-api_url: "[https://your-domain.com/api/heartbeat](https://your-domain.com/api/heartbeat)"
+api_url: "https://your-domain.com/api/heartbeat"
 token: "" # Generated automatically
 interval: 60 # Seconds
 send-software: true
