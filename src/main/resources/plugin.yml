@@ -1,0 +1,5 @@
+name: ChostPulse
+version: 1.0.0
+main: ua.chernegasergiy.chostpulse.Main
+api-version: 1.20
+author: ChernegaSergiy
