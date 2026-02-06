@@ -1,4 +1,5 @@
 package ua.chernegasergiy.chostpulse.api;
+
 public class BadgeUrlGenerator {
     private final String baseUrl;
     private final String publicId;
