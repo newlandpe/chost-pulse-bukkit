@@ -1,4 +1,5 @@
 package ua.chernegasergiy.chostpulse.tasks;
+
 import org.bukkit.Bukkit;
 import ua.chernegasergiy.chostpulse.Main;
 import java.util.HashMap;
