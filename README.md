@@ -43,4 +43,4 @@ Please make sure to update tests as appropriate and adhere to the existing codin
 
 ## License
 
-MIT
+This project is licensed under the CSSM Unlimited License v2.0 (CSSM-ULv2). Please note that this is a custom license. See the [LICENSE](LICENSE) file for details.
