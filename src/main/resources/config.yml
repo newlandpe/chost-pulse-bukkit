@@ -1,0 +1,5 @@
+api_url: "https://your-domain.com/api/heartbeat"
+token: ""
+interval: 60
+send-software: true
+debug: false
