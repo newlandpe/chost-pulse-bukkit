@@ -2,6 +2,15 @@
 
 Asynchronous heartbeat and statistics collector for Bukkit/Spigot servers.
 
+## Features
+
+- **Non-Blocking Telemetry Engine**: Leverages asynchronous scheduling to transmit heartbeats, ensuring zero impact on server TPS even during network latency or API spikes.
+- **Automated Identity Handshake**: Automatically generates a unique cryptographic token and public ID upon the first launch, establishing a secure and permanent link with the monitoring edge.
+- **Granular Server Insights**: Captures essential performance data, including real-time player counts, Tick-Per-Second (TPS) metrics, and detailed software versioning for precise analytics.
+- **Instant Badge Deployment**: Provides ready-to-use SVG badge URLs via the server console, enabling developers to embed live status and performance indicators directly into GitHub or website documentation.
+- **Optimized Resource Footprint**: Built with performance in mind, the plugin uses minimal memory and CPU cycles, making it suitable for both small community servers and high-traffic networks.
+- **Plug-and-Play Simplicity**: Requires zero manual configuration to get started; simply drop the plugin in, and it will begin reporting metrics using sane, pre-defined defaults.
+
 ## Installation
 
 1. Download or build the `.jar` file.
